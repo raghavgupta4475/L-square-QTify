@@ -10,7 +10,7 @@ const Navbar = () => {
             <a href="/">
                 <Logo />
             </a>
-            <Search />
+            <Search placeholder="Search" />
             <Button>
                 Give Feedback
             </Button>
